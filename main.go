@@ -1,2 +1,3 @@
-func main(d){}
+package main()
+func main(){}
 
